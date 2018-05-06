@@ -1,6 +1,6 @@
-### 实现让 Siri 响应用户的：“嘿, Siri. 我在 xx 时间有什么课?”
+## 实现让 Siri 响应用户的：“嘿, Siri. 我在 xx 时间有什么课?”
 
-#### Installation
+### Installation
 1.   下载项目
 ```shell
 # git clone https://github.com/frozentearz/HunanSoftwareEduClassSchedule2CVS.git
@@ -16,7 +16,7 @@ Python2： #pip install -r requirements.txt
 Python3： #pip3 install -r requirements.txt
 ```
 
-#### Usage:
+### Usage:
 1. 把课程表放到 *xlsx* 文件夹下，并命名为ClassSchedule.xlsx  
 `PS: 注意此文件夹下同时只能放一个 xlsx 文件，且目前仅支持 xlsx 文件`
 
@@ -60,7 +60,6 @@ Eg:
 选择 **Google** > **继续**。  
 要添加您的 Google 帐号信息，请按照屏幕上的步骤操作。  
 在“帐号”标签中，使用“刷新日历”即可选择要让 Apple 日历与 Google 日历同步的频率。  
-
     - 您 iPhone 或 iPad 上的日历应用
 >您可以将 Google 日历与 iPhone 或 iPad 自带的日历应用同步。  
 打开 iPhone 或 iPad 上的“设置”应用。  
@@ -73,12 +72,12 @@ Eg:
 系统会立即将邮件、通讯录和日历活动直接与您的 Google   帐号同步。要仅同步日历，请关闭其他服务。  
 在 iPhone 上打开日历应用，以查看 Google 日历活动。  
 
-Ending: 
+**Ending**:   
 之后你就能看到你的 Apple 日历上有你的课程安排，接下来就可以通过 Siri 询问有关课程安排，**Finished**.
 
-#### Todolist:
+### Todolist:
 - 单双周课程分离
 - 支持用户输入开学日期
 - xls 与 xlsx 兼容
 
-#### Any Question, new a issues~
+### Any Question, new a issues~
