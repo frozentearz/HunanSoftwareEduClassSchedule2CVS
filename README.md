@@ -60,6 +60,7 @@ Eg:
 选择 **Google** > **继续**。  
 要添加您的 Google 帐号信息，请按照屏幕上的步骤操作。  
 在“帐号”标签中，使用“刷新日历”即可选择要让 Apple 日历与 Google 日历同步的频率。  
+
     b. 您 iPhone 或 iPad 上的日历应用
 >您可以将 Google 日历与 iPhone 或 iPad 自带的日历应用同步。  
 打开 iPhone 或 iPad 上的“设置”应用。  
