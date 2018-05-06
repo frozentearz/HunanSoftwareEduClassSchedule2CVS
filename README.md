@@ -50,7 +50,8 @@ Eg:
 8. 详情见 Google Support: (https://support.google.com/calendar/answer/99358?hl=zh-Hans)  
 如果你不能科学上网，憋方，我帮你复制好了: 
 
- - 在 Apple 日历上查看 Google 日历活动
+- 在 Apple 日历上查看 Google 日历活动
+
     a. 您计算机上的 Apple 日历
 >**注意**：请确保您的计算机上安装的是最新版本的 Apple 日历和 Apple 操作系统。了解如何[查找您的 Apple 计算机操作系统](https://support.apple.com/HT201260)或[更新您的计算机操作系统](https://support.apple.com/HT201541)。  
 在计算机上打开日历 Apple 日历![Apple 日历](./images/AppleCalendar.png)。  
